@@ -1,0 +1,4 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+maxim_savedmodel/** filter=lfs diff=lfs merge=lfs -text
+minor[[:space:]]ppt.pptx filter=lfs diff=lfs merge=lfs -text
