@@ -400,5 +400,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/arnav-glitch">Arnav</a>
+  Made with ❤️ by <a href="https://github.com/KENESIS42">Abhishek</a>
 </p>
