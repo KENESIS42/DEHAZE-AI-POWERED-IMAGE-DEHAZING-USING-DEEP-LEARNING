@@ -1,0 +1,80 @@
+# ========================================
+# Python
+# ========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# ========================================
+# Jupyter Notebooks
+# ========================================
+.ipynb_checkpoints/
+
+# ========================================
+# Node.js / React
+# ========================================
+node_modules/
+frontend/build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ========================================
+# Environment files
+# ========================================
+.env
+.env.local
+.env.*.local
+
+# ========================================
+# Large model files (download separately)
+# ========================================
+maxim_savedmodel/
+*.h5
+
+# ========================================
+# Dataset (too large for Git)
+# ========================================
+data/
+
+# ========================================
+# Upload / Results directories
+# ========================================
+backend/uploads/
+backend/results/
+
+# ========================================
+# IDE / Editor
+# ========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ========================================
+# OS files
+# ========================================
+Desktop.ini
+ehthumbs.db
+
+# ========================================
+# Miscellaneous
+# ========================================
+*.log
+*.cache
+.cache/
